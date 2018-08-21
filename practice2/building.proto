@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+message Building {
+    string name = 1;
+    string number = 2;
+    string street = 3;
+}
